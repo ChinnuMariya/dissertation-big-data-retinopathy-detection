@@ -56,3 +56,7 @@ You can view or download my full dissertation here:
 You can view and run the full notebook for this project on Google Colab:
 
 ▶️ [Open Diabetic Retinopathy Detection Notebook on Google Colab](https://colab.research.google.com/drive/1YR3aLiD8rtyLXgxnWT9m2zCndH30SQxN?usp=sharing)
+
+📽️ [Download the Project Presentation][Diabetic_Retinopathy_Presentation.pptx]
+
+
