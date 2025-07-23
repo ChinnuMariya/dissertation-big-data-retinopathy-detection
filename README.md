@@ -31,11 +31,6 @@ This repository contains the source code and report for my **Master's Dissertati
 
 ---
 
-## 📄 Dissertation Report
-
-You can view or download my full dissertation here:  
-👉 [Add link to PDF after uploading]
-
 ---
 
 ## 👩‍💻 Author
